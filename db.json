@@ -1,0 +1,77 @@
+{
+  "user": [
+    {
+      "name": "sanjeev",
+      "email": "sanjeev@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "sanjeev",
+      "email": "sanjeev@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "sanjeev",
+      "email": "sanjeev@gmail.com",
+      "password": "12345",
+      "id": 3
+    }
+  ],
+  "companies": [
+    {
+      "company_logo": "abc",
+      "company_name": "abcd",
+      "company_type": "IT",
+      "stock_exchange": "BSE",
+      "total_shares": "4500",
+      "cost_per_share": "100",
+      "price_action": "125",
+      "id": 1
+    },
+    {
+      "company_logo": "https://play-lh.googleusercontent.com/_i6vclevbRQV_wJM4Nnta-B0etKJmQSDFBPoLYYcvixH3q9XyVqytyZ4-Dvdp2UkQ_8",
+      "company_name": "HDFC",
+      "company_type": "Bank",
+      "stock_exchange": "BSE",
+      "total_shares": "2000",
+      "cost_per_share": "3000",
+      "price_action": "250",
+      "id": 2
+    },
+    {
+      "company_logo": "https://play-lh.googleusercontent.com/_i6vclevbRQV_wJM4Nnta-B0etKJmQSDFBPoLYYcvixH3q9XyVqytyZ4-Dvdp2UkQ_8",
+      "company_name": "HDFC",
+      "company_type": "Bank",
+      "stock_exchange": "BSE",
+      "total_shares": "30000",
+      "cost_per_share": "2698",
+      "price_action": "87",
+      "id": 3
+    },
+    {
+      "company_logo": "https://play-lh.googleusercontent.com/_i6vclevbRQV_wJM4Nnta-B0etKJmQSDFBPoLYYcvixH3q9XyVqytyZ4-Dvdp2UkQ_8",
+      "company_name": "87",
+      "company_type": "Pharma",
+      "stock_exchange": "BSE",
+      "total_shares": "kshd",
+      "cost_per_share": "sd2",
+      "price_action": "12",
+      "id": 4
+    },
+    {
+      "company_logo": "https://play-lh.googleusercontent.com/_i6vclevbRQV_wJM4Nnta-B0etKJmQSDFBPoLYYcvixH3q9XyVqytyZ4-Dvdp2UkQ_8",
+      "company_name": "iii",
+      "company_type": "Pharma",
+      "stock_exchange": "BSE",
+      "total_shares": "87",
+      "cost_per_share": "23",
+      "price_action": "23",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
